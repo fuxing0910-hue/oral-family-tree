@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" compressed="false">
+  <diagram id="oral-family-tree" name="族谱图">
+    <mxGraphModel grid="1" gridSize="10" page="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oral-family-title" value="族谱图" style="fontFamily=Microsoft YaHei;html=0;text;align=left;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#263C35;" vertex="1" parent="1">
+          <mxGeometry x="42" y="36" width="320" height="44" as="geometry" />
+        </mxCell>
+        <object id="oral-family-person-P003" label="林义文&#10;外公" familyLabel="林义文&#10;外公">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="252" y="110" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-person-P002" label="林静&#10;妈妈" familyLabel="林静&#10;妈妈">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="42" y="246" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-person-P004" label="林军&#10;大舅" familyLabel="林军&#10;大舅">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="252" y="246" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-person-P005" label="林芳&#10;小姨、阿芳" familyLabel="林芳&#10;小姨、阿芳">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="462" y="246" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-person-P001" label="阿嘉" familyLabel="阿嘉">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="42" y="382" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-person-P006" label="张云" familyLabel="张云">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="357" y="382" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-person-P007" label="豆豆" familyLabel="豆豆">
+          <mxCell parent="1" vertex="1" style="fontFamily=Microsoft YaHei;html=0;rounded=1;arcSize=12;whiteSpace=wrap;spacing=8;fontSize=15;fontColor=#263C35;strokeColor=#789288;strokeWidth=1;fillColor=#F3F7F2;">
+            <mxGeometry x="567" y="382" width="160" height="58" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-relation-R001" label="" familyLabel="" familyKind="亲子">
+          <mxCell parent="1" edge="1" source="oral-family-person-P002" target="oral-family-person-P001" style="fontFamily=Microsoft YaHei;html=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=12;labelBackgroundColor=#FFFFFF;strokeWidth=1.5;endFill=1;endArrow=block;dashed=0;strokeColor=#5D7A70;fontColor=#5D7A70;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-relation-R002" label="" familyLabel="" familyKind="亲子">
+          <mxCell parent="1" edge="1" source="oral-family-person-P003" target="oral-family-person-P004" style="fontFamily=Microsoft YaHei;html=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=12;labelBackgroundColor=#FFFFFF;strokeWidth=1.5;endFill=1;endArrow=block;dashed=0;strokeColor=#5D7A70;fontColor=#5D7A70;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-relation-R003" label="" familyLabel="" familyKind="亲子">
+          <mxCell parent="1" edge="1" source="oral-family-person-P003" target="oral-family-person-P002" style="fontFamily=Microsoft YaHei;html=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=12;labelBackgroundColor=#FFFFFF;strokeWidth=1.5;endFill=1;endArrow=block;dashed=0;strokeColor=#5D7A70;fontColor=#5D7A70;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-relation-R004" label="" familyLabel="" familyKind="亲子">
+          <mxCell parent="1" edge="1" source="oral-family-person-P003" target="oral-family-person-P005" style="fontFamily=Microsoft YaHei;html=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=12;labelBackgroundColor=#FFFFFF;strokeWidth=1.5;endFill=1;endArrow=block;dashed=0;strokeColor=#5D7A70;fontColor=#5D7A70;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-relation-R005" label="" familyLabel="" familyKind="亲子">
+          <mxCell parent="1" edge="1" source="oral-family-person-P005" target="oral-family-person-P006" style="fontFamily=Microsoft YaHei;html=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=12;labelBackgroundColor=#FFFFFF;strokeWidth=1.5;endFill=1;endArrow=block;dashed=0;strokeColor=#5D7A70;fontColor=#5D7A70;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="oral-family-relation-R006" label="" familyLabel="" familyKind="亲子">
+          <mxCell parent="1" edge="1" source="oral-family-person-P005" target="oral-family-person-P007" style="fontFamily=Microsoft YaHei;html=0;edgeStyle=orthogonalEdgeStyle;rounded=0;fontSize=12;labelBackgroundColor=#FFFFFF;strokeWidth=1.5;endFill=1;endArrow=block;dashed=0;strokeColor=#5D7A70;fontColor=#5D7A70;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
